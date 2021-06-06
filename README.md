@@ -1,1 +1,1 @@
-"# Notorious-Client" 
+Source code for an old Minecraft client developed years ago while I was still learning. It's bad but could be useful for others looking to learn.
